@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ConsentText</key>
+    <dict>
+      <key>default</key>
+      <string>Welcome to Melting Sn0w, the next Gen of iOS Hacking!</string>
+    </dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>FullScreen</key>
+        <true/>
+        <key>Icon</key>
+        <data>        
+<key>IsRemovable</key>
+        <false/>
+        <key>Label</key>
+        <string>Melting Sn0w</string>
+        <key>PayloadDescription</key>
+        <string>Adds a Web Clip.</string>
+        <key>PayloadDisplayName</key>
+        <string>Web Clip</string>
+        <key>PayloadIdentifier</key>
+        <string>meltingsn0w.io.webclip</string>
+        <key>PayloadType</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadUUID</key>
+        <string>09A4B944-1935-B38A-9CF8-B714DFB0MOJO</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>Precomposed</key>
+        <true/>
+        <key>URL</key>
+        <string>https://meltingsn0w.000webhostapp.com/</string>
+      </dict>
+    </array>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadOrganization</key>
+    <string>Mojo Dev Team</string>
+    <key>PayloadDisplayName</key>
+    <string>Mojo Installer</string>
+    <key>PayloadIdentifier</key>
+    <string>meltingsn0w.io</string>
+    <key>PayloadDescription</key>
+    <string>This payload will install a custom Melting Sn0w build on to your iOS Device. This will not harm your device in any way.</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>CE0C7A12-4576-FABB-D357-05FCC00AMOJO</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
